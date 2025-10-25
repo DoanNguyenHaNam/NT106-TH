@@ -1,0 +1,47 @@
+{
+  "soldSeats": [
+    {
+      "movie": "\u0110\u00E0o, ph\u1EDF v\u00E0 piano",
+      "room": "1",
+      "seat": "A1",
+      "type": "V\u1EDBt",
+      "price": 22500
+    },
+    {
+      "movie": "\u0110\u00E0o, ph\u1EDF v\u00E0 piano",
+      "room": "1",
+      "seat": "A2",
+      "type": "Th\u01B0\u1EDDng",
+      "price": 90000
+    },
+    {
+      "movie": "\u0110\u00E0o, ph\u1EDF v\u00E0 piano",
+      "room": "1",
+      "seat": "A5",
+      "type": "V\u1EDBt",
+      "price": 22500
+    },
+    {
+      "movie": "\u0110\u00E0o, ph\u1EDF v\u00E0 piano",
+      "room": "1",
+      "seat": "B3",
+      "type": "VIP",
+      "price": 180000
+    },
+    {
+      "movie": "\u0110\u00E0o, ph\u1EDF v\u00E0 piano",
+      "room": "1",
+      "seat": "C4",
+      "type": "Th\u01B0\u1EDDng",
+      "price": 90000
+    },
+    {
+      "movie": "\u0110\u00E0o, ph\u1EDF v\u00E0 piano",
+      "room": "1",
+      "seat": "C5",
+      "type": "V\u1EDBt",
+      "price": 22500
+    }
+  ],
+  "totalRevenue": 427500
+}

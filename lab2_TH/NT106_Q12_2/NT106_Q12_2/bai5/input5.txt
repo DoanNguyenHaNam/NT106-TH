@@ -1,0 +1,29 @@
+{
+  "movies": [
+    { 
+      "name": "Đào, phở và piano", 
+      "basePrice": 90000, 
+      "rooms": [1, 2, 3] 
+    },
+    { 
+      "name": "Mai", 
+      "basePrice": 100000, 
+      "rooms": [2, 3] 
+    },
+    { 
+      "name": "Gặp lại chị bầu", 
+      "basePrice": 70000, 
+      "rooms": [1, 2] 
+    },
+    { 
+      "name": "Tớ muốn ăn tụy của cậu", 
+      "basePrice": 45000, 
+      "rooms": [4] 
+    },
+    { 
+      "name": "Khi em chạy về phía anh", 
+      "basePrice": 45000, 
+      "rooms": [4] 
+    }
+  ]
+}

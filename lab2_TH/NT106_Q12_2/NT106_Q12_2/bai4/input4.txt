@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "12",
+    "name": "H\u00E0 Nam",
+    "phone": "0357514770",
+    "course1": 7,
+    "course2": 8,
+    "course3": 9,
+    "average": 8
+  },
+  {
+    "ID": "1",
+    "name": "nam",
+    "phone": "0999999111",
+    "course1": 7,
+    "course2": 5,
+    "course3": 4,
+    "average": 5.333333333333333
+  },
+  {
+    "ID": "2",
+    "name": "toi bi",
+    "phone": "0123456789",
+    "course1": 7,
+    "course2": 5,
+    "course3": 5,
+    "average": 5.666666666666667
+  },
+  {
+    "ID": "3",
+    "name": "h\u00E0",
+    "phone": "0357514770",
+    "course1": 2,
+    "course2": 4,
+    "course3": 5,
+    "average": 3.6666666666666665
+  }
+]
