@@ -1,0 +1,16 @@
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\bin\Debug\net8.0-windows\bai02.exe
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\bin\Debug\net8.0-windows\bai02.deps.json
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\bin\Debug\net8.0-windows\bai02.runtimeconfig.json
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\bin\Debug\net8.0-windows\bai02.dll
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\bin\Debug\net8.0-windows\bai02.pdb
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.Mainboard.resources
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.csproj.GenerateResource.cache
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.AssemblyInfoInputs.cache
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.AssemblyInfo.cs
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.csproj.CoreCompileInputs.cache
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.dll
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\refint\bai02.dll
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.pdb
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\bai02.genruntimeconfig.cache
+C:\Users\NAM\Desktop\NT106\lab3_TH\bai02\bai02\obj\Debug\net8.0-windows\ref\bai02.dll
